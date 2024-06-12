@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+# Compiled javascript
+build
+
+# Dependency directory
+node_modules
+
+# Enviroment variables
+config.env
+.env
+
+#Development files
+dev-data
